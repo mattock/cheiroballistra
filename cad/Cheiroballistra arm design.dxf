@@ -67,7 +67,7 @@ STANDARD
 9
 $CLAYER
 8
-Text
+Visualization
 9
 $DIMASZ
 40
@@ -229,9 +229,9 @@ AcDbViewportTableRecord
 21
 1
 12
-214.095683233
+-188.621007
 22
-124.39230203
+-45.095597076
 13
 0
 23
@@ -257,9 +257,9 @@ AcDbViewportTableRecord
 37
 0
 40
-322.498560819
+29.4855827035
 41
-2.28403361345
+1.61764705882
 42
 50
 43
@@ -1187,7 +1187,7 @@ AcDbLayerTableRecord
 2
 Hoop
 70
-0
+5
 62
 7
 6
@@ -1209,7 +1209,7 @@ AcDbLayerTableRecord
 2
 Groove
 70
-0
+1
 62
 7
 6
@@ -1231,7 +1231,7 @@ AcDbLayerTableRecord
 2
 Bar
 70
-0
+1
 62
 7
 6
@@ -1277,7 +1277,7 @@ AcDbLayerTableRecord
 2
 Text
 70
-0
+1
 62
 7
 6
@@ -1299,7 +1299,7 @@ AcDbLayerTableRecord
 2
 Visualization
 70
-0
+1
 62
 7
 6
